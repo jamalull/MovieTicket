@@ -1,0 +1,2 @@
+rootProject.name='Movie Ticket'
+include ':app'
